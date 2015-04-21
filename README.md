@@ -17,14 +17,4 @@ code sample:
 add code snippit here
 ```
 
-Run the following command to install it:
 
-```console
-bundle install
-```
-
-Run the generator:
-
-```console
-rails generate simple_form:install
-```
