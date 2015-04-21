@@ -6,7 +6,7 @@ Enter short description here.
 
 **Repository Name** enter the business goal or purpose of the repositiory.  describle in 1 paragraph
 
-INFO: This README is [also available in a friendly navigable format](https://github.com/teb58/template)
+INFO: This README is [also available in a friendly navigable format](https://github.com/teb58/template/blob/master/README.md)
 and refers to **Repository Name** version For older releases, check the related branch for your version.
 
 ## Installation
